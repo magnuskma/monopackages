@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/magnuskma/monopackages/compare/1.0.1...1.0.2) (2024-08-12)
+
+
+### Bug Fixes
+
+* add npm user ([bccc93f](https://github.com/magnuskma/monopackages/commit/bccc93f6f1c5961d442e046645d69cd21274812c))
+
 ## [1.0.1](https://github.com/magnuskma/monopackages/compare/1.0.0...1.0.1) (2024-08-12)
 
 
