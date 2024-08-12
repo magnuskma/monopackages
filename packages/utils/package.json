@@ -1,5 +1,8 @@
 {
   "name": "@magnuskma/utils",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "private": true,
   "version": "0.0.0",
   "type": "module",
