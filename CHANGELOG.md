@@ -1,3 +1,11 @@
+## [1.0.3](https://github.com/magnuskma/monopackages/compare/1.0.2...1.0.3) (2024-08-12)
+
+
+### Bug Fixes
+
+* add packages versions ([bcdd286](https://github.com/magnuskma/monopackages/commit/bcdd2869f3eac69c1cb99857a7f3f07dda24669d))
+* set versions ([35c2c2c](https://github.com/magnuskma/monopackages/commit/35c2c2c37a7eae0a01f67cca5b1607837ac3528d))
+
 ## [1.0.2](https://github.com/magnuskma/monopackages/compare/1.0.1...1.0.2) (2024-08-12)
 
 
