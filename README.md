@@ -1,6 +1,6 @@
 # PNPM monorepo
 
-## publish package:
+## Publish package:
 
 ```shell
 pnpm publish -r

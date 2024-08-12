@@ -1,9 +1,10 @@
 {
+  "version": "1.0.1",
   "name": "@magnuskma/common",
+  "repository": "https://github.com/magnuskma/monopackages.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "version": "0.0.1",
   "type": "module",
   "files": [
     "dist"
