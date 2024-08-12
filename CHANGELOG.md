@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/magnuskma/monopackages/compare/1.0.3...1.0.4) (2024-08-12)
+
+
+### Bug Fixes
+
+* git add assets ([94a6149](https://github.com/magnuskma/monopackages/commit/94a6149170ffd870532825c9199329a67ec35414))
+
 ## [1.0.3](https://github.com/magnuskma/monopackages/compare/1.0.2...1.0.3) (2024-08-12)
 
 
