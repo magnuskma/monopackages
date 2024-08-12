@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/magnuskma/monopackages/compare/1.0.0...1.0.1) (2024-08-12)
+
+
+### Bug Fixes
+
+* add sync versions for packages ([f7e89c4](https://github.com/magnuskma/monopackages/commit/f7e89c4b61c01ee2eba899be2c1f2f21401dd8ce))
+
 # 1.0.0 (2024-08-12)
 
 
