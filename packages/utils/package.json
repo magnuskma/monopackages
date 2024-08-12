@@ -14,7 +14,8 @@
   "types": "./dist/index.d.ts",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build"
+    "build": "tsc && vite build",
+    "ci:version": "node ../../version.js"
   },
   "devDependencies": {
     "rollup": "^4.20.0",

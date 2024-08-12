@@ -6,6 +6,13 @@
     "@semantic-release/release-notes-generator",
     "@semantic-release/npm",
     [
+      "@semantic-release/exec",
+      {
+        "prepareCmd": "pnpm -r ci:version version",
+        "publishCmd": "pnpm -r publish --no-git-checks"
+      }
+    ],
+    [
       "@semantic-release/changelog",
       {
         "changelogFile": "CHANGELOG.md"
